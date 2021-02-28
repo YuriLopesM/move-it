@@ -12,10 +12,11 @@ Aplicativo web criado pela [Rocketseat](https://rocketseat.com.br/) durante a Ne
 
 ## 🚩 Índice
 
-- [Instalação] (# - instalacao)
-- [Execução] (# - execucao)
-- [Ferramentas] (# - ferramentas utilizadas)
-- [Licença] (# - licenca)
+- [Instalação] (#-instalação)
+- [Execução] (#-execução)
+- [Ferramentas] (#-ferramentas-utilizadas)
+- [Licença] (#-licença)
+- [Sobre mim](#-sobre-mim)
 
 ## 🍉 Instalação
 
@@ -55,7 +56,7 @@ Para executar este projeto, basta usar:
 Este software é licenciado sob a [Licença MIT](https://github.com/YuriLopesM/move-it/blob/master/LICENSE) © [Yuri Lopes Machado](https://github.com/YuriLopesM).
 
   
-## 🧑‍ Sobre o criador
+## 🧑‍ Sobre mim
 
 <p align = "center">
   <img src = "https://i.ibb.co/x7d4DBt/Asset-1.png" alt = "Logo" border = "0">
