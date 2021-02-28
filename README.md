@@ -1,21 +1,21 @@
-# 💵 Move.it 
+# 🕗 Move.it 
 Aplicativo web criado pela [Rocketseat](https://rocketseat.com.br/) durante a Next Level Week #4 utilizando NextJS 📘💙
 
 **https://move-it-nlw-04-yurilopesm.vercel.app/**
 
 ## 📢 Descrição
 
-** Move.it ** é um aplicativo que segue a metodologia de **Pomodoro**, onde você trabalha seguindo um Temporizador. Durante o período estipulado trabalha-se normalmente, mas quando o mesmo chega ao fim, deve-se fazer um exercício. Conta também com um sistema de Experiência e Nível, tornando-o mais divertido.
+**Move.it** é um aplicativo que segue a metodologia de **Pomodoro**, onde você trabalha seguindo um Temporizador. Durante o período estipulado trabalha-se normalmente, mas quando o mesmo chega ao fim, deve-se fazer um exercício. Conta também com um sistema de Experiência e Nível, tornando-o mais divertido.
 
 ✨ Este é apenas um aplicativo de Front-end, utilizando Cookies para manter os dados. No futuro, quero implementar este aplicativo com Back-end e Banco de Dados, além de realizar as dicas de upgrades citadas pela Rocketseat.
   
 
 ## 🚩 Índice
 
-- [Instalação] (# - instalação)
-- [Execução] (# - execução)
+- [Instalação] (# - instalacao)
+- [Execução] (# - execucao)
 - [Ferramentas] (# - ferramentas utilizadas)
-- [Licença] (# - licença)
+- [Licença] (# - licenca)
 
 ## 🍉 Instalação
 
@@ -52,7 +52,7 @@ Para executar este projeto, basta usar:
   
 ## 📜 Licença
 
-Este software é licenciado sob a [Licença MIT] (https://github.com/YuriLopesM/move-it/blob/master/LICENSE) © [Yuri Lopes Machado] (https://github.com/YuriLopesM).
+Este software é licenciado sob a [Licença MIT](https://github.com/YuriLopesM/move-it/blob/master/LICENSE) © [Yuri Lopes Machado](https://github.com/YuriLopesM).
 
   
 ## 🧑‍ Sobre o criador
@@ -63,5 +63,5 @@ Este software é licenciado sob a [Licença MIT] (https://github.com/YuriLopesM/
 
 <p align = "center">
   Você pode ver todas as informações sobre mim em meu perfil. 
-  Sinta-se à vontade para me enviar uma mensagem, feedback ou algo assim :happy:
+  Sinta-se à vontade para me enviar uma mensagem, feedback ou algo assim :smile:
 </p> 
