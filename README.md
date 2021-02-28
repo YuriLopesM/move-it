@@ -12,10 +12,10 @@ Aplicativo web criado pela [Rocketseat](https://rocketseat.com.br/) durante a Ne
 
 ## 🚩 Índice
 
-- [Instalação] (#-instalação)
-- [Execução] (#-execução)
-- [Ferramentas] (#-ferramentas-utilizadas)
-- [Licença] (#-licença)
+- [Instalação](#-instalação)
+- [Execução](#-execução)
+- [Ferramentas](#-ferramentas-utilizadas)
+- [Licença](#-licença)
 - [Sobre mim](#-sobre-mim)
 
 ## 🍉 Instalação
