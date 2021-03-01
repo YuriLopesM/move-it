@@ -3,6 +3,8 @@ Aplicativo web criado pela [Rocketseat](https://rocketseat.com.br/) durante a Ne
 
 **https://move-it-nlw-04-yurilopesm.vercel.app/**
 
+![MoveIt](https://user-images.githubusercontent.com/75103144/109526423-4caa2e00-7a91-11eb-8639-cd40609118fe.gif)
+
 ## 📢 Descrição
 
 **Move.it** é um aplicativo que segue a metodologia de **Pomodoro**, onde você trabalha seguindo um Temporizador. Durante o período estipulado trabalha-se normalmente, mas quando o mesmo chega ao fim, deve-se fazer um exercício. Conta também com um sistema de Experiência e Nível, tornando-o mais divertido.
